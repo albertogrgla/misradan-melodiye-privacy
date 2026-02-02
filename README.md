@@ -9,7 +9,7 @@ Bu repository, **Mısradan Melodiye** adlı Android uygulaması için hazırlanm
 Uygulamanın gizlilik politikasına aşağıdaki bağlantıdan erişebilirsiniz:
 
 👉 **Gizlilik Politikası:**  
-https://albertogrla.github.io/misradan-melodiye-privacy/gizlilik.html
+https://albertogrgla.github.io/misradan-melodiye-privacy/gizlilik.html
 
 ## 📄 İçerik
 Bu repository aşağıdaki dosyayı içerir:
